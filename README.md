@@ -54,7 +54,7 @@ display(iris)
     .dataframe thead th {
         text-align: right;
     }
-</style>
+</style scoped>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -238,7 +238,7 @@ display(iris.duplicated().sum())
     .dataframe thead th {
         text-align: right;
     }
-</style>
+</style scoped>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
