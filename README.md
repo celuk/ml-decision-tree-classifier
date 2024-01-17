@@ -301,7 +301,7 @@ plt.show()
 
 
     
-![png](output_15_1.png)
+![png](imgs/output_15_1.png)
     
 
 
@@ -335,7 +335,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](imgs/output_21_0.png)
     
 
 
@@ -360,13 +360,13 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](imgs/output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](imgs/output_24_1.png)
     
 
 
@@ -463,7 +463,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](imgs/output_40_0.png)
     
 
 
@@ -484,7 +484,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](imgs/output_43_0.png)
     
 
 
@@ -652,7 +652,7 @@ print(roc_auc['macro'])
 
 
     
-![png](output_58_0.png)
+![png](imgs/output_58_0.png)
     
 
 
@@ -662,7 +662,7 @@ print(roc_auc['macro'])
 
 
     
-![png](output_58_2.png)
+![png](imgs/output_58_2.png)
     
 
 
